@@ -11,9 +11,9 @@ if ":" in BOT_TOKEN:
         bot_token=BOT_TOKEN,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 1 has been found")
+    print("ShivSpam : Bot token 1 has been found")
 else:
-    print("LegendSpam : Client 1 not Found")
+    print("ShivSpam : Client 1 not Found")
 
 
 if BOT_TOKEN2:
@@ -24,7 +24,7 @@ if BOT_TOKEN2:
         bot_token=BOT_TOKEN2,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 2 Found")
+    print("ShivSpam : Bot token 2 Found")
 else:
     Client2 = None
 
@@ -37,7 +37,7 @@ if BOT_TOKEN3:
         bot_token=BOT_TOKEN3,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 3 Found")
+    print("ShivSpam : Bot token 3 Found")
 else:
     Client3 = None
 
@@ -50,7 +50,7 @@ if BOT_TOKEN4:
         bot_token=BOT_TOKEN4,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam - [INFO]: Bot token 4 Found")
+    print("ShivSpam - [INFO]: Bot token 4 Found")
 else:
     Client4 = None
 
@@ -62,7 +62,7 @@ if BOT_TOKEN5:
         bot_token=BOT_TOKEN5,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 5 Found")
+    print("ShivSpam : Bot token 5 Found")
 else:
     Client5 = None
 
@@ -74,7 +74,7 @@ if BOT_TOKEN6:
         bot_token=BOT_TOKEN6,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 6 Found")
+    print("ShivSpam : Bot token 6 Found")
 else:
     Client6 = None
 
@@ -86,7 +86,7 @@ if BOT_TOKEN7:
         bot_token=BOT_TOKEN7,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 7 Found")
+    print("ShivSpam : Bot token 7 Found")
 else:
     Client7 = None
 
@@ -98,7 +98,7 @@ if BOT_TOKEN8:
         bot_token=BOT_TOKEN8,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 8 Found")
+    print("ShivSpam : Bot token 8 Found")
 else:
     Client8 = None
 
@@ -110,7 +110,7 @@ if BOT_TOKEN9:
         bot_token=BOT_TOKEN9,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 9 Found")
+    print("ShivSpam : Bot token 9 Found")
 else:
     Client9 = None
 
@@ -122,7 +122,7 @@ if BOT_TOKEN10:
         bot_token=BOT_TOKEN10,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 10 Found")
+    print("ShivSpam : Bot token 10 Found")
 else:
     Client10 = None
 
@@ -134,7 +134,7 @@ if BOT_TOKEN11:
         bot_token=BOT_TOKEN11,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 11 Found")
+    print("ShivSpam : Bot token 11 Found")
 else:
     Client11 = None
 
@@ -146,7 +146,7 @@ if BOT_TOKEN12:
         bot_token=BOT_TOKEN12,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 12 Found")
+    print("ShivSpam : Bot token 12 Found")
 else:
     Client12 = None
 
@@ -158,7 +158,7 @@ if BOT_TOKEN13:
         bot_token=BOT_TOKEN13,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 13 Found")
+    print("ShivSpam : Bot token 13 Found")
 else:
     Client13 = None
 
@@ -170,7 +170,7 @@ if BOT_TOKEN14:
         bot_token=BOT_TOKEN14,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 14 Found")
+    print("ShivSpam : Bot token 14 Found")
 else:
     Client14 = None
 
@@ -182,7 +182,7 @@ if BOT_TOKEN15:
         bot_token=BOT_TOKEN15,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 15 Found")
+    print("ShivSpam : Bot token 15 Found")
 else:
     Client15 = None
 
@@ -194,7 +194,7 @@ if BOT_TOKEN16:
         bot_token=BOT_TOKEN16,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 16 Found")
+    print("ShivSpam : Bot token 16 Found")
 else:
     Client16 = None
 
@@ -206,7 +206,7 @@ if BOT_TOKEN17:
         bot_token=BOT_TOKEN17,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 17 Found")
+    print("ShivSpam : Bot token 17 Found")
 else:
     Client17 = None
 
@@ -218,7 +218,7 @@ if BOT_TOKEN18:
         bot_token=BOT_TOKEN18,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 18 Found")
+    print("ShivSpam : Bot token 18 Found")
 else:
     Client18 = None
 
@@ -230,7 +230,7 @@ if BOT_TOKEN19:
         bot_token=BOT_TOKEN19,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 19 Found")
+    print("ShivSpam : Bot token 19 Found")
 else:
     Client19 = None
 
@@ -242,7 +242,7 @@ if BOT_TOKEN20:
         bot_token=BOT_TOKEN20,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 20 Found")
+    print("ShivSpam : Bot token 20 Found")
 else:
     Client20 = None
 
@@ -254,7 +254,7 @@ if BOT_TOKEN21:
         bot_token=BOT_TOKEN21,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 12 Found")
+    print("ShivSpam : Bot token 12 Found")
 else:
     Client21 = None
 
@@ -266,7 +266,7 @@ if BOT_TOKEN22:
         bot_token=BOT_TOKEN22,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 22 Found")
+    print("ShivSpam : Bot token 22 Found")
 else:
     Client22 = None
 
@@ -278,7 +278,7 @@ if BOT_TOKEN23:
         bot_token=BOT_TOKEN23,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 23 Found")
+    print("ShivSpam : Bot token 23 Found")
 else:
     Client23 = None
 
@@ -290,7 +290,7 @@ if BOT_TOKEN24:
         bot_token=BOT_TOKEN14,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 24 Found")
+    print("ShivSpam : Bot token 24 Found")
 else:
     Client24 = None
 
@@ -302,6 +302,6 @@ if BOT_TOKEN25:
         bot_token=BOT_TOKEN25,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 25 Found")
+    print("ShivSpam : Bot token 25 Found")
 else:
     Client25 = None
