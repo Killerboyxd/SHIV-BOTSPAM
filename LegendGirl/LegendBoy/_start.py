@@ -7,7 +7,7 @@ from LegendGirl.Config import *
 
 @Client.on_message(filters.command(["start"], prefixes=HANDLER))
 async def start(Legend: Client, message: Message):
-    if ".jpg" in START_PIC or ".png" in START_PIC:
+    if "https://telegra.ph/file/9584b19633bf5b31faa12.jpg" in START_PIC or "https://telegra.ph/file/ff8228a476d1fc73ab8fe.jpg" in START_PIC:
         await Legend.send_photo(
             message.chat.id,
             START_PIC,
