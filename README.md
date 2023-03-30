@@ -1,9 +1,9 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=LEGEND-AI&repo=BOTSPAM&theme=lite)
 
-[![LEGENDBOTSPAM](https://graph.org/file/89ed7d3a2bd8aa2c61385.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
+[![🔥•♡⁣⃝𝗦𝚮꯭𝗜🅅__●⃭⃖🔥𝗦𝗣𝗔𝗠](https://telegra.ph/file/ff8228a476d1fc73ab8fe.jpg)](https://github.com/LEGEND-AI/BOTSPAM)
 
 <h1 align="center">
-<b> 『ẞø†Spâm』 </b>
+<b> 『sʜɪᴠ Spâm』 </b>
 </h1>
 
 <h6 align="center">
@@ -27,9 +27,9 @@
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBotSpam)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/RONNY_KI_DUNIYA)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/do_dil_ek_jaan143)
  
 -------
 
@@ -197,7 +197,7 @@ Commands | Description
 </details>
 
 
-> Made with 💕 by [@TeamLegendXD](https://t.me/TeamLegendXD).    
+> Made with 💕 by [@ll_SABKA_BHAI_KILLER_ll](https://t.me/ll_SABKA_BHAI_KILLER_ll).    
 
 
 
