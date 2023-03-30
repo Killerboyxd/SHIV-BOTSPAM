@@ -5,7 +5,7 @@ from LegendGirl.Config import *
 
 if ":" in BOT_TOKEN:
     Client1 = call(
-        "LegendSpam",
+        "ShivSpam",
         api_id=APP_ID,
         api_hash=API_HASH,
         bot_token=BOT_TOKEN,
